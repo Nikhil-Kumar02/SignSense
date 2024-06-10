@@ -12,4 +12,4 @@ Hand Gesture Recognition is an advanced project aimed at interpreting and respon
 
 **User-Friendly Interface:** Easy-to-use graphical user interface for demonstration and testing.
 
-**Modular Design:** Highly modular codebase to facilitate customization and extension.
+**Modular Design:** Highly modular codebase to facilitate customization and extension. 
